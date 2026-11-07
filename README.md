@@ -17,4 +17,4 @@ kapakları kapalı tut
 ## Kaynakça
 programlama temelleri ders kitabı
 ders notları
-openAl - ChatGP( fikir ve açıklama desteği )
+openAl - ChatGPT( fikir ve açıklama desteği )
